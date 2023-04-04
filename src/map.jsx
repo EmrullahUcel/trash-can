@@ -12,7 +12,7 @@ function LocationMarker() {
     <MapContainer
       style={{ width: "100vw", height: "100vh" }}
       center={[41.04362838398769, 28.875784857246703]}
-      zoom={12}
+      zoom={16}
       scrollWheelZoom={false}
     >
       <TileLayer
