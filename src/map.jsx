@@ -12,7 +12,7 @@ function LocationMarker() {
   return (
     <div>
       <div className="title">
-        <h1>Öz-De-Bir Ortaokulu Projesi</h1>
+        <h1>Öz-De-Bir Ortaokulu Harezmi Projesi</h1>
       </div>
       <MapContainer
         className="map"
