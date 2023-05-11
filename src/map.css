@@ -1,0 +1,10 @@
+.map {
+    position: absolute;
+    width: 100vw;
+    height: 50vh;
+    margin-top: 30vh;
+}
+
+.title {
+    text-align: center;
+}
